@@ -1,0 +1,38 @@
+
+body {
+    background-image: url("https://images.unsplash.com/photo-1470770841072-f978cf4d019e");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.85);
+    border: 3px solid blue;
+    border-radius: 15px;
+    padding: 30px;
+}
+
+h1 {
+    color: darkblue;
+    border: 2px solid orange;
+    padding: 10px;
+}
+
+.text {
+    color: darkred;
+    border: 2px dashed green;
+    padding: 15px;
+    font-size: 18px;
+}
+
+h2 {
+    color: purple;
+}
+
+p {
+    color: black;
+}
